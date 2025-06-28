@@ -31,5 +31,20 @@ Welcome to the **Bristol Hydrology Group**! We explore the behaviour and role of
 
 ---
 
+## 📦 Repositories
+
+Below is an index of our organization’s core repositories. Each repo focuses on a different aspect of our work—just click the link to explore:
+
+| Repository                        | Description                                                 |
+|-----------------------------------|-------------------------------------------------------------|
+| [BristolHydrology.github.io](https://github.com/BristolHydrology/BristolHydrology.github.io) | Lab website and documentation (_this repo_)                 |
+| [DataProcessing](https://github.com/BristolHydrology/DataProcessing)         | Scripts and workflows for hydrological data processing      |
+| [FloodModel](https://github.com/BristolHydrology/FloodModel)                 | Flood risk modeling code and Jupyter notebooks              |
+| [DrylandClimatology](https://github.com/BristolHydrology/DrylandClimatology) | Dryland hydro-climatology analyses and datasets             |
+| [BiogeochemFlux](https://github.com/BristolHydrology/BiogeochemFlux)       | Biogeochemical flux modeling in freshwater and coastal systems |
+
+---
+
+
 *The Bristol Hydrology Group is dedicated to advancing our understanding of water in the environment through cutting‑edge research, collaboration, and education.*
 
