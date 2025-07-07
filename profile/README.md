@@ -29,7 +29,11 @@ The brief development history of LISFLOOD-FP and the modelling components.
 
 - **Website**: [bristolhydrology.github.io/BristolHydrology/](https://bristolhydrology.github.io/BristolHydrology/)  
 - **Publications**: (classify publication themes and add link to the publication)  
-  [1] Estimating river bathymetry
+  [1] Local inertial equations for flood inundation modelling
+  - [Bates, P. D., Horritt, M. S., & Fewtrell, T. J. (2010). A simple inertial formulation of the shallow water equations for efficient two-dimensional flood inundation modelling. *Journal of Hydrology, 387*(1–2), 33–45.](https://doi.org/10.1016/j.jhydrol.2010.03.027)
+  - 
+    
+  [2] Estimating river bathymetry for data-sparse regions
   - [Neal, J., Hawker, L., Savage, J., Durand,M., Bates, P., & Sampson, C. (2021). Estimating river channel bathymetry in large-scale flood inundation models. Water Resources Research,57, e2020WR028301.](https://doi.org/10.1029/2020WR028301)
   - 
 - **People**: (Add link to team members)  
